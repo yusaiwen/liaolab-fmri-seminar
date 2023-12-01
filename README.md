@@ -1,1 +1,1 @@
-[Link](https://nbviewer.jupyter.org/github/yusaiwen/liaolab-fmri-seminar/tree/master/) to view this repository.
+[Link](https://nbviewer.org/github/yusaiwen/liaolab-fmri-seminar/tree/main/) to view this repository.
